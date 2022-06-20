@@ -1,0 +1,5 @@
+CSS - folder with styles temp
+	styleEnter.css - clear browser styles
+
+paterns - folder with interesting element's style
+	button.txt - 3D button 
